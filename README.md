@@ -1,2 +1,0 @@
-# RickAndMortyCharacters
-Created with CodeSandbox
